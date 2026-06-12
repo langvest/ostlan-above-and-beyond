@@ -81,3 +81,6 @@ jsconfig.json
 user-prefs.json
 minecraftinstance.json
 .curseclient
+
+# EMI
+/emi.json
