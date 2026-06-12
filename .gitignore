@@ -1,0 +1,81 @@
+# IDE
+/.idea/
+/.vscode/
+
+# Local
+/saves/
+/screenshots/
+/schematics/
+/downloads/
+/defaultconfigs/
+/data/
+/natives/
+/server-resource-packs/
+servers.dat
+servers.dat_old
+options.txt
+ponders_watched.json
+
+# Cache
+/.cache/
+usernamecache.json
+usercache.json
+
+# Logs
+/crash-reports/
+/logs/
+command_history.txt
+
+# Embeddium
+/config/embeddium-fingerprint.json
+
+# Fabric
+/config/fabric/indigo-renderer.properties
+
+# JEI
+/config/jei/world/
+
+# Mixins
+/.mixin.out/
+/config/*mixins.properties
+
+# KubeJS
+/rhino.local.properties
+/local/
+/mods/*probejs*
+/.probe/
+/kubejs/config/probe-settings.json
+jsconfig.json
+
+# Development
+/refs/
+
+# Exposure photos
+/exposures/
+/exposure_catalog_state.json
+
+# ModernFix
+/modernfix/
+
+# Cherished Worlds
+/cherishedworlds-favorites.dat
+
+# Etched
+/etched-sounds/
+
+# JAR
+/*.jar
+
+# Simple Voice Chat
+/config/voicechat/category-volumes.properties
+/config/voicechat/player-volumes.properties
+/config/voicechat/voicechat-client.properties
+/config/voicechat/username-cache.json
+
+# Sinytra Connector
+/mods/.connector/
+
+# CurseForge
+user-prefs.json
+minecraftinstance.json
+.curseclient
