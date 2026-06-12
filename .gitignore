@@ -26,7 +26,8 @@ usercache.json
 /logs/
 command_history.txt
 
-# Embeddium
+# Sodium/Embeddium
+/config/sodium-fingerprint.json
 /config/embeddium-fingerprint.json
 
 # Fabric
