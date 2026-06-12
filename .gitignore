@@ -29,6 +29,7 @@ command_history.txt
 # Sodium/Embeddium
 /config/sodium-fingerprint.json
 /config/embeddium-fingerprint.json
+/config/lithium.properties
 
 # Fabric
 /config/fabric/indigo-renderer.properties
