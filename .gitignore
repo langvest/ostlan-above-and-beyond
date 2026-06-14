@@ -90,3 +90,6 @@ minecraftinstance.json
 
 # Sable
 /.sable/
+
+# Debug
+/debug/
