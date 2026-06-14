@@ -18,6 +18,8 @@ ponders_watched.json
 
 # Cache
 /.cache/
+/dynamic-data-pack-cache/
+/dynamic-resource-pack-cache/
 usernamecache.json
 usercache.json
 *.bak
