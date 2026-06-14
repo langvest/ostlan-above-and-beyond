@@ -20,6 +20,7 @@ ponders_watched.json
 /.cache/
 usernamecache.json
 usercache.json
+*.bak
 
 # Logs
 /crash-reports/
@@ -84,3 +85,6 @@ minecraftinstance.json
 
 # EMI
 /emi.json
+
+# Sable
+/.sable/
