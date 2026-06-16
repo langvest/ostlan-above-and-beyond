@@ -17,7 +17,7 @@
       "absolute paths.                                                                 "
     ],
     "//default": [],
-    "value": []
+    "value": ["openloader-global-packs"]
   },
   "load_datapacks_dir": {
     "//": [
